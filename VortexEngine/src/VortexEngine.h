@@ -6,9 +6,8 @@
  *  Everything is working somewhat well
  *
  *  But there is still more to work on:
+ *   - Randomize patterns?
  *   - Implement missing patterns
- *   - Smart randomizer
- *   - Code documentation
  *   - IR transmission protocol to allow any length data instead of single burst
  *   - Saving modes that have custom parameters won't work
  *      - conslusion:
@@ -18,7 +17,9 @@
  *          
  *          Needs ir improvements first so that added data size can still be transmitted
  *
- *   - Writing text to serial for editable savefile
+ *   - palm light?
+ *   - Code polishing and final build solidification
+ *   - Code documentation
  *   - eliminate library code to reduce size
  */
 
